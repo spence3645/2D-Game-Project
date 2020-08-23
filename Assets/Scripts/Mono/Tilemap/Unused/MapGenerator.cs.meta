@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 08a714476a24aa04aae226c2b2062f0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grass_tile: {fileID: 11400000, guid: ddfc937c709b3b2468d5c55402c6c769, type: 2}
+  - dirt_tile: {fileID: 11400000, guid: 438700ff1a1334847adec3c08ed291ec, type: 2}
+  - grass_tile_slope_up: {fileID: 11400000, guid: c89f26e280100a448baf581eeb06bc2d,
+      type: 2}
+  - grass_tile_slope_down: {fileID: 11400000, guid: 211f1be3a2108c54dbc510c8bb127912,
+      type: 2}
+  - grass_slope_connector_up: {fileID: 11400000, guid: 1e9f842681ae7dd43b9908bd75ef4fb1,
+      type: 2}
+  - grass_slope_connector_down: {fileID: 11400000, guid: c74e1f22915d1954a98e5f2ee3598494,
+      type: 2}
+  - stone_block: {fileID: 11400000, guid: 172991a53524de241a21e9c7283a9851, type: 2}
+  - player_spawn: {fileID: 5746695782682927528, guid: ae912846f136e3a40b34fba877824efb,
+      type: 3}
+  - bandit_spawn: {fileID: 746638698871735427, guid: ba7df6c364f7ac8478e65024eb55ebf9,
+      type: 3}
+  - drone_spawn: {fileID: 9139394375813165731, guid: 823ce98e7f124aa4b86b26b9a541769b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
